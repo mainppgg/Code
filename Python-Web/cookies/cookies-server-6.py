@@ -30,7 +30,7 @@ PAGE = """
     <form action="/" method="GET">
       Say something: <input name="something" type="text" />
     <input type="submit" value="Submit" />
-    <p>{}</p>
+    <p>{}</p> 
     <p>{}</p>
     </form>
   </body>
